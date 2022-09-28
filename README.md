@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![@debosmita212's Holopin board](https://holopin.io/api/user/board?user=debosmita212)](https://holopin.io/@debosmita212)
 # 💫 About Me:
 🔭 I’m currently working on projects for Frontend development<br>👯 I’m looking to collaborate on open source collaboration!<br>🤝 I’m looking for help with guiding with end to end projects :/<br>🌱 I’m currently learning React<br>💬 Ask me about Interview failures XD<br>⚡ Fun fact: I am lazier than a Panda ^_^
 

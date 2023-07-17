@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on projects for Frontend development<br>👯 I’m looking to collaborate on open source collaboration!<br>🤝 I’m looking for help with guiding with end to end projects :/<br>🌱 I’m currently learning React<br>💬 Ask me about Interview failures XD<br>⚡ Fun fact: I am lazier than a Panda ^_^
+🔭 I’m currently working on projects for Fullstack development<br>👯 I’m looking to collaborate on open source collaboration!<br>🤝 I’m looking for help with guiding with end to end projects :/<br>🌱 I’m currently learning MERN<br>💬 Ask me about Interview failures XD<br>⚡ Fun fact: I am lazier than a Panda ^_^
 
 
 ## 🌐 Socials:
